@@ -1,0 +1,7 @@
+#luasocket
+
+luarocks install luasocket
+
+#luasec
+
+luarocks install luasec
